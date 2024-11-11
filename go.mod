@@ -1,4 +1,3 @@
-module github.com/sundeeep/golang-demystified
+module go-demystified
 
 go 1.23.3
-
