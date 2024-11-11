@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-demystified/models"
+	"golang-demystified/models"
 )
 
 func main() {
